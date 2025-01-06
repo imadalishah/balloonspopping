@@ -1,5 +1,5 @@
 # Toddler Balloon Popping Game 🎈
-(Generated using Claude 3.5, not my code, so use it accordingly. The code may have some issues or be non-optimized)
+(Generated using Claude 3.5, [`Why?`](https://www.linkedin.com/posts/imadalishah_claude-ai-technologyforgood-activity-7281856141070929920-L-_4?utm_source=share&utm_medium=member_desktop) not my code, so use it accordingly. The code may have some issues or be non-optimized)
 
 This simple HTML-based game is designed to entertain and educate toddlers by combining fun balloon-popping with number recognition. Built with minimal resources and no external dependencies, it provides an ad-free, distraction-free experience.  
 
