@@ -11,7 +11,7 @@ This simple HTML-based game is designed to entertain and educate toddlers by com
 - **Engaging Animation**: Smooth floating balloons and dynamic popping effects.  
 
 ## How to Use  
-1. [Download the `GameToddler.html` file](https://raw.githubusercontent.com/imadalishah/balloonspopping/main/GameToddler.html) directly from this repository.  
+1. Download the [`GameToddler.html`](https://raw.githubusercontent.com/imadalishah/balloonspopping/main/GameToddler.html) file directly from this repository.  
 2. Open it in any modern web browser (no installation required).  
 3. Click anywhere inside the game window to start.  
 4. Use the numeric keys (0-9) to pop balloons.  
@@ -27,10 +27,6 @@ This simple HTML-based game is designed to entertain and educate toddlers by com
 
 ## Screenshots  
 <img width="827" alt="Screenshot 2025-01-06 011807" src="https://github.com/user-attachments/assets/992c4058-53ce-467c-896a-8b579b780348" /> 
+  
 
-## License  
-This project is licensed under the MIT License.  
-
----  
-
-Let me know if you'd like any changes or additions!
+All thanks to [`Claude`](https://claude.ai)!
