@@ -11,7 +11,7 @@ This simple HTML-based game is designed to entertain and educate toddlers by com
 - **Engaging Animation**: Smooth floating balloons and dynamic popping effects.  
 
 ## How to Use  
-1. Download the `GameToddler.html` file.  
+1. [Download the `GameToddler.html` file](https://raw.githubusercontent.com/imadalishah/balloonspopping/main/GameToddler.html) directly from this repository.  
 2. Open it in any modern web browser (no installation required).  
 3. Click anywhere inside the game window to start.  
 4. Use the numeric keys (0-9) to pop balloons.  
